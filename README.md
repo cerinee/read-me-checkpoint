@@ -41,5 +41,3 @@ A full-stack e-commerce web application for an abaya clothing brand, built as a 
         └── assets/
 ```
 
-
-That's everything a reader needs to understand the project at a glance.
